@@ -24,4 +24,5 @@ The data visualization module includes scripts to visualize the results of the s
 
 Conclusion:
 This repository provides researchers and practitioners with a set of tools to analyze and understand the evolving content and emotions associated with the impact of COVID-19 on mental health support groups on Reddit. The code and data in this repository can be used to reproduce the results presented in the paper or to conduct further analysis.
+
 Cite paper Jianfeng Zhu, Neha Yalamanchi, Ruoming Jin, Kenne Deric, Hai Phan, Exploring COVID-19’s Impact on Mental Health: A Longitudinal Content Analysis of Reddit Users’ Discourse, JMIR Preprints. 28/02/2023:46867
